@@ -3,6 +3,7 @@ googlesyndication.com
 ^r+.\.googlevideo.com$ ?
 (^|\.)samsungads\.com$
 (^|\.)samsungads\.com$
+r[0-9]+-+sn-\w+-\w+.googlevideo.co,m
 ads-pres.channel4.com
 ads-pres.channel4.com
 heads*-ak.spotify.com.edgesuite.net
